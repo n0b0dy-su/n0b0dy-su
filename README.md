@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, it's me
+
+Im a backend developer and sysadmin padawan, I like the server side world and the linux based systems :penguin: 
+
+:computer:
 
 ![Codewars badge](https://www.codewars.com/users/n0b0dy-su/badges/large)
 
