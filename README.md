@@ -1,6 +1,6 @@
 ### Hi there, it's me
 
-Im a backend developer and sysadmin padawan, I like the server side world and the linux based systems :penguin: 
+Im a backend developer , I like the server side world and the linux based systems :penguin: 
 
 :computer:
 
