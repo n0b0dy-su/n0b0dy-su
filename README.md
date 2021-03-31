@@ -1,6 +1,6 @@
 ### Hi there, it's me
 
-Im a backend developer , I like the server side world and the linux based systems :penguin: and the CLI apps
+Im a backend developer , I like the server side world, the linux based systems :penguin: and the CLI apps
 
 :computer:
 
