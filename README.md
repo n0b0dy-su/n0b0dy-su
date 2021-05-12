@@ -4,6 +4,8 @@ Im a backend developer , I like the server side world, the linux based systems :
 
 :computer:
 
+**Knowledge will set us free...**
+
 ```bash
 ############################################################
 #                                                          #
