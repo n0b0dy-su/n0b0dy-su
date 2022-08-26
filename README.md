@@ -1,4 +1,4 @@
-### Hi there, it's me **156 060 142 060 144 171 055 163 165*
+### Hi there, it's me **156 060 142 060 144 171 055 163 165**
 
 Im a software developer , I like the server side world, the linux based systems :penguin: and the CLI apps
 
